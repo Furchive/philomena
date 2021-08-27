@@ -80,7 +80,7 @@
   "forums": [{
       "name": "General Discussion",
       "short_name": "dis",
-      "description": "This is a general discussion forum for things not related to the other forums.",
+      "description": "This is a discussion forum for everything unrelated to the other forums.",
       "access_level": "normal"
     },
     {
