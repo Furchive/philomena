@@ -86,7 +86,7 @@
     {
       "name": "Show Discussion",
       "short_name": "ep",
-      "description": "Discuss shows, and media content here.",
+      "description": "Discuss shows, and media content here",
       "access_level": "normal"
     },
     {
@@ -123,67 +123,67 @@
   "users": [{
     "name": "Administrator",
     "email": "admin@example.com",
-    "password": "trixieisbestpony",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "admin"
   },
   {
     "name": "Placeholder1",
-    "email": "Placeholder1@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder1@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder2",
-    "email": "Placeholder2@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder2@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder3",
-    "email": "Placeholder3@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder3@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder4",
-    "email": "Placeholder4@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder4@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder5",
-    "email": "Placeholder5@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder5@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder6",
-    "email": "Placeholder6@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder6@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder7",
-    "email": "Placeholder7@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder7@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder8",
-    "email": "Placeholder8@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder8@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder9",
-    "email": "Placeholder9@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder9@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   },
   {
     "name": "Placeholder10",
-    "email": "Placeholder10@strongemailpassword.com",
-    "password": "trixieisbestpony",
+    "email": "Placeholder10@example.com",
+    "password": "CHANGE_ME_FOR_DEPLOYMENT",
     "role": "user"
   }
   ],

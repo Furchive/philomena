@@ -43,6 +43,10 @@ defmodule PhilomenaWeb.AppView do
     )
   end
 
+  def tag_list(image) do
+    Philomena.Images.tag_list(image)
+  end
+
   def distance_of_time_in_words(time_2, time_1) do
     seconds = abs(DateTime.diff(time_2, time_1, :second))
     minutes = div(seconds, 60)
@@ -179,6 +183,10 @@ defmodule PhilomenaWeb.AppView do
     String.downcase(booru_name())
   end
   
+  def booru_name_lowercase_clean do
+    String.replace(booru_name_lowercase()," ","_")
+  end
+  
   def booru_tagline do
     Application.get_env(:philomena, :booru_tagline)
   end
@@ -189,5 +197,13 @@ defmodule PhilomenaWeb.AppView do
   
   def booru_dark_style do
     Application.get_env(:philomena, :booru_dark_style)
+  end
+  
+  def booru_alt_donation do
+    Application.get_env(:philomena, :booru_alt_donation)
+  end
+  
+  def booru_repo do
+    Application.get_env(:philomena, :booru_repo)
   end
 end
